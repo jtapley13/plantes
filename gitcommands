@@ -1,4 +1,11 @@
-GENERAL:
+#####  GENERAL:  ####
+
+git status
+	- Check which files have been staged/committed or not in the repository
+	** NOTE: Can add a .gitignore file to specify files to ignore in status
+
+git diff [file]
+	- See the differences between versions of a file (i.e. what lines have been added or deleted)
 
 git add [files]
 	- Adds files to the stage
@@ -9,13 +16,13 @@ git commit -m [message]
 
 git log
 	- Lists all changes made to git files (i.e. all commits with corresponding messages, as well as 
-	** NOTE: Can use arguments --oneline,
+	** NOTE: Can use arguments --oneline, [code] (for specific log entry)
 
 git checkout HEAD [file]
 	- Changes to previously saved/committed version of the file
+	** NOTE: 
 
-
-COLLABORATING:
+####  COLLABORATING:  ####
 
 git clone [shared repository] [repository destination on computer]
 	- Clones a shared repository onto your computer
