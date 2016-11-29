@@ -1,3 +1,8 @@
+####  MERGING FILES  ####
+
+If two people are editing the same file at the same time, and one has pushed it to the origin (repository) then the other has to first pull the changed file off the repository and merge it with the file they are currently editing, before they can then push the new version on to the repository
+
+
 #####  GENERAL:  ####
 
 git status
