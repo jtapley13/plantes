@@ -1,6 +1,12 @@
 cold and dry, but everything is my favourite colour.
 The two moons may be a problem for Wolfman.
 
+<<<<<<< HEAD
 Hello :)
 
 Finally got this working. So amazing...
+=======
+Hello :D
+
+
+>>>>>>> 39e642ef86c509f13864a7f68a66c776ad5334a7
